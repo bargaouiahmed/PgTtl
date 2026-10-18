@@ -1,0 +1,8 @@
+<Solution>
+    <Folder Name="/src/">
+        <Project Path="src/PgTtl/PgTtl.csproj" />
+    </Folder>
+    <Folder Name="/tests/">
+        <Project Path="tests/PgTtl.Tests/PgTtl.Tests.csproj" />
+    </Folder>
+</Solution>
